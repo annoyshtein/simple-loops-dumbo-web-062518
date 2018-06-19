@@ -52,9 +52,7 @@ def for_iterator(number_of_times)
   counter = 1..number_of_times
   
   for time in counter 
-    puts "I'm putting a pair of shoes away."
-end
-  puts "Welcome to Flatiron School's Web Development Course!"
-  
+    puts "Welcome to Flatiron School's Web Development Course!"
+  end
 end
 
